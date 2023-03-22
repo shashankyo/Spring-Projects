@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+<bean id="jd" class="spring1.JavaDeveloper">
+</bean>
+<bean id="pd" class="spring1.PythonDeveloper">
+</bean>
+
+<bean id="se" class="spring1.SE">
+</bean>
+</beans>
