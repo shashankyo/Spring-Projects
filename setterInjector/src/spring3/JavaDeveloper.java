@@ -1,5 +1,6 @@
 package spring3;
 
+
 public class JavaDeveloper {
 	int id;
 	String name;
